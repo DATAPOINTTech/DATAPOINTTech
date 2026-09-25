@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DATAPOINTTech
-- 👀 I’m interested in ...Bike Sharing System Application 
+- 👀 I’m interested in ...AI Code , Ai Agents , Ai Agency 
 - 🌱 I’m currently learning ...Coding
-- 💞️ I’m looking to collaborate on ...Bike SHaring System 
+- 💞️ I’m looking to collaborate on ...Ai Coding
 - 📫 How to reach me ... datapointtechnologies@gmail.com
 
 <!---
